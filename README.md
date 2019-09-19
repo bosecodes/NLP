@@ -1,7 +1,7 @@
 # NLP
-Natural Language Processing
+_Natural Language Processing_
 
-This repo deals with Natural Language Processing, its developments and applications.
+### This repo deals with Natural Language Processing, its developments and applications.
 
 A cute little link to learn more from experts:
 
